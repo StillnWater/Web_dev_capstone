@@ -100,7 +100,7 @@ Web_dev_capstone/
 
 ## 🧑‍💻 About
 
-This project was built as the **capstone project** for a Web Development course at **K.R. Mangalam University**. It demonstrates practical application of core front-end concepts including component architecture, state management, custom routing, and modern React patterns.
+This project was built as the **capstone project** for a Web Development course. It demonstrates practical application of core front-end concepts including component architecture, state management, custom routing, and modern React patterns.
 
 **Author:** Ash ([@StillnWater](https://github.com/StillnWater))
 
